@@ -1,4 +1,48 @@
 # TEST
 A test project
 A trial of how to use it ained to cooperation in the near future.
-asddfff
+<html>
+	<head>
+	<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"/>
+		<title>
+			肺音识别检测
+		</title>
+		<link href="css/style.css" rel="stylesheet" type="text/css" media="all">
+		
+		<script type="text/javascript" src="js/demo.js"> </script>
+	</head>
+	<body>
+		<table>
+			<tr style= "height:90px;text-align:center;">
+				<td colspan="4" style="font-size：2.3em; font-weight:bold; color: #707070">
+					<font size="7"  strong>肺音识别系统</font>
+				</td>
+			</tr>
+			<tr style="height:30px;text-align:center;background:#4D4D4D;color:white;">
+				<td>
+					<font size="5" strong>首页</font>
+				</td>
+				<td>
+					<font size="5" strong>介绍</font>
+				</td>
+				<td>
+					<font size="5" strong>检测</font>
+				</td>
+				<td>
+					<font size="5" strong>结果</font>
+				</td>
+			</tr>
+			<tr >
+				<td colspan="4" style="text-align:center;background-size:100% auto;">
+					<img src="C:/Users/14764/Desktop/肺音识别/images/1.jpg"/>
+				</td>
+			</tr>
+			<tr style="height:50px;text-align:center;background:#FCFCFC">
+				<td colspan="4">
+					肺音识别<br>
+					合肥工业大学
+				</td>
+			</tr>
+		</table>	
+	</body>
+</html>
